@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="dec_btn">Decrement Counter</string>
+    <string name="inc_btn">Increment Counter</string>
+    <string name="reset_btn">Reset Counter</string>
+
+
+</resources>
